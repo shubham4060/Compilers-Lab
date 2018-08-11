@@ -1,3 +1,3 @@
 # Compilers-Lab
 
-this contains various assignments of compilers lab course offered in IIT-KGP for reference.
+this contains various assignments of compilers lab project offered in IIT-KGP.
